@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <LangVersion>10</LangVersion>
+        <Nullable>enable</Nullable>
+        <RootNamespace>duge.GameLib.ArrayMeshSurfaceBuilder</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="GodotSharp" Version="4.3.0" />
+    </ItemGroup>
+
+</Project>
